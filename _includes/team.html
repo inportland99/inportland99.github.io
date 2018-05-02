@@ -1,0 +1,35 @@
+<!-- Team Section -->
+    <section id="team" class="bg-light-gray">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading">About</h2>
+                    <!-- <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3> -->
+                </div>
+            </div>
+            <div class="row">
+                {% for member in site.people %}
+                <div class="col-sm-4">
+                    <div class="team-member">
+                        <img src="img/team/{{ member.pic }}.jpg" class="img-responsive img-circle" alt="">
+                        <h4>{{ member.name }}</h4>
+                        <p class="text-muted">{{ member.position }}</p>
+                        <ul class="list-inline social-buttons">
+                            {% for network in member.social %}
+                            <li>
+                                <a href="{{ network.url }}">
+                                    <i class="fa fa-{{ network.title }}"></i>
+                                </a>
+                            </li>
+                            {% endfor %}
+                        </ul>
+                    </div>
+                  </div>
+                  <div class="col-lg-8 col-lg-offset-2 text-center">
+                      <p class="large text-muted">I have always had an affinity for math. Powered by my love of math, I earned a Ph.D. in Physics in 1999 which led to a career in R&D at Intel. In 2008, I quit my job and founded <a href="http://www.mathplusacademy.com">Math Plus Academy</a>, an after-school STEM enrichment program for kids from ages 5 – 14. My mission is to introduce kids and adults to the wonders of mathematics. I'm also proud to contribute time to <a href="https://www.mathteacherscircle.org">Math Teacher Circles</a>, the <a href="http://jrmf.org">Julia Robinson Math Festival</a>, and I am a founding member of <a href="http://globalmathproject.org">The Global Math Project</a>.<br />
+                        <strong>I believe that <u>everyone</u> can enjoy math, develop strong number sense, and become a perseverant problem solver.</strong></p>
+                  </div>
+                {% endfor %}
+            </div>
+        </div>
+    </section>

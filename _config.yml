@@ -1,0 +1,46 @@
+url: ""
+baseurl:
+
+# Site settings
+title: Dr. Raj Shah
+email: drrajshah@me.com
+description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+
+plugins: [jekyll-paginate]
+paginate: 5
+paginate_path: "blog/page:num/"
+
+# Team names, titles and social links
+people:
+- name: Dr. Raj Shah
+  pic: 1
+  position: CEO, Speaker, Author
+  social:
+    - title: twitter
+      url: http://www.twitter.com/drrajshah
+    - title: facebook
+      url: http://www.facebook.com/drrajshah
+    # - title: stack-overflow
+    #   url: #
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: http://twitter.com/drrajshah
+  - title: facebook
+    url: http://www.facebook.com/drrajshah
+  # - title: stack-overflow
+  #   url: http://stackoverflow.com/questions/tagged/jekyll
+  # - title: bitbucket
+  #   url: http://bitbucket.org/jekyll
+  # - title: github
+  #   url: http://github.com/jekyll
+
+# Postal address (add as many lines as necessary)
+address:
+  - line:
+  - line:
+
+# Build settings
+markdown: kramdown
+permalink: pretty

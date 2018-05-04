@@ -5,57 +5,81 @@
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 02 May 2018 00:48:06 -0400</pubDate>
-    <lastBuildDate>Wed, 02 May 2018 00:48:06 -0400</lastBuildDate>
+    <pubDate>Thu, 03 May 2018 23:18:41 -0400</pubDate>
+    <lastBuildDate>Thu, 03 May 2018 23:18:41 -0400</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
     
       <item>
         <title>Dan Meyer Does It Again</title>
-        <description>&lt;h2 id=&quot;what-ive-been-thinking-about&quot;&gt;What I’ve Been Thinking About&lt;/h2&gt;
-&lt;p&gt;I’ve been traveling around the state of Ohio talking to teachers about how to improve math class. I demonstrate simple ways to spark curiosity, encourage productive struggle, and plan for meaningful discourse. Most teachers are eager for tips and techniques and ready to try them out.&lt;/p&gt;
+        <description>&lt;h2 id=&quot;the-one-question-every-teacher-asks&quot;&gt;The One Question Every Teacher Asks&lt;/h2&gt;
 
-&lt;p&gt;They love that we do math problems together.&lt;/p&gt;
+&lt;p&gt;When I conduct workshops with teachers, I always make sure we engage in a non-routine math tasks that (hopefully) force teachers to think in new ways as mathematical problem-solvers.&lt;/p&gt;
 
-&lt;p&gt;At the end the most common question I get is, “Where do you find these great math problems?”&lt;/p&gt;
+&lt;p&gt;The most common question I at the end of the workshop is, “Where do you find these great math problems?”&lt;/p&gt;
 
-&lt;p&gt;Everyone wants the magic bullet. Dan Meyer’s Three-Act tasks, Fawn Nguyen’s Visual Patterns, Christopher Danielson’s Which One Doesn’t Belong, Graham Fletcher’s XXX, and on and on.&lt;/p&gt;
+&lt;p&gt;I can send them to &lt;a href=&quot;https://docs.google.com/spreadsheets/d/1jXSt_CoDzyDFeJimZxnhgwOVsWkTQEsfqouLWNNC6Z4/edit#gid=0&quot;&gt;Dan Meyer’s Three-Act tasks&lt;/a&gt;, &lt;a href=&quot;http://www.visualpatterns.org&quot;&gt;Fawn Nguyen’s Visual Patterns&lt;/a&gt;, &lt;a href=&quot;http://wodb.ca&quot;&gt;Christopher Danielson’s Which One Doesn’t Belong&lt;/a&gt;, or &lt;a href=&quot;http://www.openmiddle.com&quot;&gt;Robert Kaplinsky’s Open Middle&lt;/a&gt;. They are all great resources and there are so many more! (BTW - Shout out to the online math teacher community &lt;a href=&quot;https://twitter.com/search?q=%23mtbos&quot;&gt;#mtbos&lt;/a&gt;. They are doing amazing work!)&lt;/p&gt;
 
-&lt;p&gt;What’s been bothering me is that I don’t believe great tasks are the solution.&lt;/p&gt;
+&lt;p&gt;But what’s been nagging at me is the underlying notion that better problems are the solution to what’s wrong with math class.&lt;/p&gt;
 
-&lt;p&gt;Great teaching is the solution! The tasks are just a tool in our giant tool box.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;That’s just not true.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Great tasks are NOT the solution.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Great teaching practices are the solution!&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Rich math tasks are just one (important) ingredient in a complete recipe. I guess as a math person I should say that good tasks are necessary but not sufficient.&lt;/p&gt;
+
+&lt;p&gt;I great teacher can turn a bad tasks into a good experience and a bad teachers can turn a great task into a poor experience.&lt;/p&gt;
 
 &lt;h2 id=&quot;enter-dan-meyer-at-nctm&quot;&gt;Enter Dan Meyer at NCTM&lt;/h2&gt;
 
-&lt;p&gt;Apparently Dan’s been wondering the same thing. Why does a task like Barbie Bungie which virtually every teacher seems to love sometimes fail?&lt;/p&gt;
+&lt;p&gt;Apparently Dan’s been wondering the same thing. His example: Why does a task like Barbie Bungie which virtually every teacher seems to love sometimes fail?&lt;/p&gt;
 
-&lt;p&gt;In typical Dan Meyer fashion he walks you right through all the key points.&lt;/p&gt;
+&lt;p&gt;In typical Dan Meyer fashion he walks you right through the salient points.&lt;/p&gt;
+
+&lt;p&gt;There are my key takeaways that put a fine point on many things I had been thinking.&lt;/p&gt;
 
 &lt;h2 id=&quot;routine-vs-non-routine&quot;&gt;Routine vs. Non-Routine&lt;/h2&gt;
 
-&lt;p&gt;Jobs requiring&lt;/p&gt;
+&lt;p&gt;A good task has elements that are routine as well as elements that are non-routine. It’s the non-routine work that is often the most interesting and engaging. The non-routine can include making sense of the problem, collecting data or useful information, estimating possible answers, trying something and making mistakes along the way.&lt;/p&gt;
+
+&lt;p&gt;At some point you may need to recall (or look up) basic facts or do a computation, use a calculator. These are examples of routine work. They are necessary, but typically don’t result in much engagement.&lt;/p&gt;
+
+&lt;p&gt;BTW - As you might guess, jobs that require routine physical or mental work are slowly being automated out of the economy. Should we be doing a better job preparing kids for non-routine work?&lt;/p&gt;
 
 &lt;h2 id=&quot;co-constructed&quot;&gt;Co-constructed&lt;/h2&gt;
 
+&lt;p&gt;When possible, tasks should be co-constructed by the teacher AND the students. When students have an active voice in the process, engagement increases immensely.&lt;/p&gt;
+
+&lt;p&gt;One good way to do this is to present an scenario and withhold the question. Let students get immersed in the scenario and come up with their own questions. Document those questions and choose one to explore. Now your lesson is co-constructed.&lt;/p&gt;
+
 &lt;h2 id=&quot;full-stack&quot;&gt;Full Stack&lt;/h2&gt;
 
-&lt;p&gt;Question
-Estimate
-Err
-Recall
-Compute
-Verify
-Undo&lt;/p&gt;
+&lt;p&gt;Dan posits that in the best mathematical experiences teachers ask questions from the “full stack” of questions.&lt;/p&gt;
 
-&lt;h2 id=&quot;the-hazards-of-paper&quot;&gt;The hazards of paper&lt;/h2&gt;
+&lt;p&gt;Here’s his full stack:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Question&lt;/li&gt;
+  &lt;li&gt;Estimate&lt;/li&gt;
+  &lt;li&gt;Err&lt;/li&gt;
+  &lt;li&gt;Recall&lt;/li&gt;
+  &lt;li&gt;Compute&lt;/li&gt;
+  &lt;li&gt;Verify&lt;/li&gt;
+  &lt;li&gt;Undo&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I might label these a little differently, but this seems like a good list.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-hazards-of-paper&quot;&gt;The Hazards of Paper&lt;/h2&gt;
 &lt;p&gt;What happens when you try and script the lesson? Can you make Barbie Bungie into a worksheet?&lt;/p&gt;
 
-&lt;p&gt;Here’s the problem if you make a student worksheet for students, it’s easy to fall into the trap of providing too much information.&lt;/p&gt;
+&lt;p&gt;Here’s the problem if you make a worksheet for students, it’s easy to fall into the trap of providing too much information.&lt;/p&gt;
 
-&lt;p&gt;If you purposefully left out some key information during the launch of the task. How are you going to provide that on a worksheet?&lt;/p&gt;
-
-&lt;p&gt;The key point is that the organic discussions that arise in class are so much more valuable in keeping student engagement high and allowing students the freedom to problem solve.&lt;/p&gt;
+&lt;p&gt;If you purposefully left out some key information during the launch of the task. How are you going to provide that information on a worksheet? Students can just look ahead and find the information right there which ruins the inquiry process.&lt;/p&gt;
 
 &lt;p&gt;Did you put a graph on the worksheet for students to fill out? If so, you’ve turned the non-routine into the routine of plotting points. Who decided which variables are assigned to each axis?&lt;/p&gt;
+
+&lt;p&gt;The key point is that organic class discussions and struggle are too valuable to ignore. Scripting the process on a worksheet can easily take the non-routine and turn into routine work that spoils a lot of the fun.&lt;/p&gt;
 </description>
         <pubDate>Fri, 27 Apr 2018 00:00:00 -0400</pubDate>
         <link>http://localhost:4000/2018/04/27/NCSM-Impressions/</link>

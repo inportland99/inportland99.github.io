@@ -3,10 +3,10 @@
   <channel>
     <title>Dr. Raj Shah</title>
     <description>Dr. Raj Shah is a keynote speaker, author, and expert in sparking student curiosity and encouraging productive struggle.</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 08 Feb 2019 13:55:14 -0500</pubDate>
-    <lastBuildDate>Fri, 08 Feb 2019 13:55:14 -0500</lastBuildDate>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Fri, 08 Feb 2019 13:58:42 -0500</pubDate>
+    <lastBuildDate>Fri, 08 Feb 2019 13:58:42 -0500</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
     
       <item>
@@ -38,8 +38,8 @@ LEGO Robotics - build and program robots to do automated tasks&lt;/p&gt;
 &lt;p&gt;There’s still time to try out a camp that will help your child learn to use technology, not just sit and consume it.&lt;/p&gt;
 </description>
         <pubDate>Wed, 13 Jun 2018 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/2018/06/13/Math-Recitals/</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/06/13/Math-Recitals/</guid>
+        <link>/2018/06/13/Math-Recitals/</link>
+        <guid isPermaLink="true">/2018/06/13/Math-Recitals/</guid>
         
         
       </item>
@@ -117,8 +117,8 @@ LEGO Robotics - build and program robots to do automated tasks&lt;/p&gt;
 &lt;p&gt;The key point is that organic class discussions and struggle are too valuable to ignore. Scripting the process on a worksheet can easily take the non-routine and turn into routine work that spoils a lot of the fun.&lt;/p&gt;
 </description>
         <pubDate>Fri, 27 Apr 2018 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/2018/04/27/NCSM-Impressions/</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/04/27/NCSM-Impressions/</guid>
+        <link>/2018/04/27/NCSM-Impressions/</link>
+        <guid isPermaLink="true">/2018/04/27/NCSM-Impressions/</guid>
         
         
       </item>

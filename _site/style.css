@@ -41,9 +41,9 @@ ul {
   font-size: 18px;
   line-height: 1.5em;
 }
-/* p.large {
-    font-size: 16px;
-} */
+p.large {
+    font-size: calc(12px + 1vw);
+}
 
 a,
 a:hover,
@@ -344,18 +344,18 @@ header .intro-text .intro-heading {
     header .intro-text .intro-lead-in {
         margin-bottom: 25px;
         font-family: "Droid Serif", "Helvetica Neue", Helvetica,Arial,sans-serif;
-        font-size: 40px;
+        font-size: calc(14px + 2vw);
         font-style: italic;
         line-height: 40px;
     }
 
     header .intro-text .intro-heading {
-        margin-bottom: 50px;
+        margin-bottom: 15px;
         text-transform: uppercase;
         font-family: Montserrat, "Helvetica Neue",Helvetica,Arial,sans-serif;
-        font-size: 75px;
+        font-size: calc(28px + 3vw);
         font-weight: 700;
-        line-height: 75px;
+        line-height: 1em;
     }
 }
 
@@ -904,10 +904,11 @@ body {
 .pagination a, .pagination span {
     padding: 7px 18px;
     border: 1px solid #eee;
-    margin-left: -2px;
-    margin-right: -2px;
+    border-radius: 6px;
+    /* margin-left: 0px;
+    margin-right: 0px; */
     background-color: #ffffff;
-    display: inline-block;
+    /* display: inline-block; */
   }
 
 .pagination a {

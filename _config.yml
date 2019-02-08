@@ -4,10 +4,10 @@ baseurl:
 # Site settings
 title: Dr. Raj Shah
 email: drrajshah@me.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: "Dr. Raj Shah is a keynote speaker, author, and expert in sparking student curiosity and encouraging productive struggle."
 
 plugins: [jekyll-paginate]
-paginate: 5
+paginate: 1
 paginate_path: "blog/page:num/"
 
 # Team names, titles and social links

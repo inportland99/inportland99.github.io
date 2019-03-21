@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Media
-navigation_weight: 1
+navigation_weight: 3
 ---
 
 <iframe src="https://player.vimeo.com/video/235417582?color=c9ff23&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>

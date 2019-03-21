@@ -1,48 +1,10 @@
 ---
 layout: page
-title: Workshops
-navigation_weight: 1
+title: Testimonials
+navigation_weight: 2
 ---
 
-Dr. Shah provides consulting and professional development for individual schools and districts. He is passionate about helping teachers spark student curiosity, encourage productive struggle, and foster meaningful discourse that develops deeper conceptual understanding.
-
-Because of Math Plus' proven results, Dr. Shah is pursued by school districts nationwide to instruct teachers. In Central Ohio, he has provided training to teachers in Westerville, New Albany, Hilliard, Dublin, Worthington, Reynoldsburg, South-Western City and Columbus City Schools.
-
-In addition, Dr. Shah routinely speaks for national, state, and local conferences.
-
-* National Council of Supervisors of Math Annual Conference (2018)
-* National Council of Teachers of Mathematics Annual Conference (2019, 2017)
-* National Math Festival in Washington DC (2019, 2017)
-* McGraw-Hill Leadership Symposium (2018, 2017, 2016, 2015)
-* MidSchoolMath National Conference (2019, 2015, 2014)
-* Ohio Council of Teachers of Mathematics Annual Conference (2017, 2013)
-* TwitterMathCamp (2017, 2013)
-
-<br />
-If you're interested in speaking or professional development for your organization please email your request to drrajshah@me.com
-<hr />
-
-## Areas of Expertise
-* Sparking curiosity about mathematics
-* Encouraging productive struggle
-* Teaching mathematical problem solving
-* Promoting mental math and number sense
-* Using games to stimulate engagement
-* Promoting meaningful discourse with simple classroom routines
-
-## Seminars and Workshops
-
-* Encouraging Productive Struggle
-* Eight Powerful Strategies for Mathematical Problem Solving
-* Curiosity Driven Mathematics
-* The Power of Visualizing Mathematics
-* Starting Arguments in Math Class to Promote Mathematical Discourse
-* Mental Math to Build Number Sense & Fluency
-* Using Games to Promote Mathematical Thinking
-
-All of Dr. Shah's workshops and keynotes are interactive with audience participation. Using interesting and engaging problems Dr. Shah illustrates exactly how teachers can help students be more curious, build number sense, and become perseverant problem solvers.
-
-## Feedback from Educators
+## Workshop Feedback
 
 <div class="row">
   <div class="col-md-6">
@@ -73,53 +35,3 @@ All of Dr. Shah's workshops and keynotes are interactive with audience participa
     <blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/drrajshah?ref_src=twsrc%5Etfw">@drrajshah</a> <a href="https://twitter.com/kraekerc?ref_src=twsrc%5Etfw">@kraekerc</a> <a href="https://twitter.com/Vimeo?ref_src=twsrc%5Etfw">@Vimeo</a> Any time I see someone complaining about the &quot;new math&quot;, I share your video. It&#39;s fantastic.</p>&mdash; Jennifer Liang (@Kathana) <a href="https://twitter.com/Kathana/status/603219071618789377?ref_src=twsrc%5Etfw">May 26, 2015</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
   </div>
 </div>
-
-
-
-[articles](https://medium.com/inspired-ideas-prek-12/math-growth-at-home-helping-parents-to-support-students-8bca8ecf7ab1)
-
-<hr />
-
-<h2>Selected Speaking Engagments</h2>
-
-June 2018 - McGraw Hill Leadership Symposium - Santa Fe NM
-
-April 2018 - National Council of Supervisors of Mathematics - Washington DC
-
-November 2017 - Education Services Center of Lorain County - Lorain OH
-
-October 2017 - Ohio Association of Gifted Teachers - Columbus OH
-
-October 2017 - Ohio Council of Teachers of Mathematics - Columbus OH
-
-June 2017 - McGraw Hill Leadership Symposium - San Antonio TX
-
-April 2017 - National Council of Teachers of Mathematics - San Antonio TX
-
-April 2017 - National Math Festival - Washington DC
-
-October 2016 - Ohio Association of Gifted Teachers - Columbus OH
-
-June 2016 - McGraw Hill Leadership Symposium - Chicago IL
-
-June 2015 - McGraw Hill Leadership Symposium - Santa Fe NM
-
-March 2015 - Mid School Math, Santa Fe NM
-
-March 2014 - Mid School Math, Santa Fe NM
-
-October 2013 - Ohio Council of Teachers of Mathematics, Dayton OH
-
-September 2013 - Ohio Association of Gifted Teachers Conference, New Albany OH
-
-July 2013 - Twitter Math Camp, Philadelphia PA
-
-April 2013 - ESCCO Student Workshop - New Albany OH
-
-February 2013 - New Albany Plain Local Schools Professional Development, New Albany OH
-
-December 2012 - ESCCO Student Workshop - New Albany OH
-
-October 2012 - Ohio Association of Gifted Teachers Conference, New Albany OH
-
-November 2011 - Gifted Coordinators Lecture Series, Dublin OH
